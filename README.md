@@ -1,1 +1,3 @@
-# engr1340-JacobRepo1
+# ENGR 1340 Assignment 3
+
+Name: Jacob Honeycutt
